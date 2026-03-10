@@ -19,4 +19,4 @@ This script uses the outputs generated in the previous step to perform the susce
 
 Results
 
-The folder Clustering contains all the results generated after running both scripts.
+The folder Results_final contains all the results generated after running both scripts.
