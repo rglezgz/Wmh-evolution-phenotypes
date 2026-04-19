@@ -1,7 +1,7 @@
 WMH-evolution-phenotypes
 
 This repository contains the analysis scripts and derived results supporting the study:
-“In vivo identification of distinct phenotypes in white matter lesion evolution.”
+“Lesion-level phenotypes of white matter hyperintensity evolution beyond spatial location.”
 
 The file WMH_clusters_metrics-all_with_clinic_final.xlsx contains all the data used in the analyses. This dataset includes multimodal metrics for each identified cluster, along with demographic and clinical information at the subject level.
 
